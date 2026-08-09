@@ -14,7 +14,7 @@ Passionate developer building practical solutions with **Python**. Exploring **A
 | **Languages** | Python |
 | **Data & AI** | Pandas, Scikit-learn (Learning) |
 | **Desktop** | PyQt5 |
-| **Tools** | Git, GitHub, VS Code |
+| **Tools** | Git, GitHub, PyCharm |
 
 ## 🚀 Focus Areas
 - 🤖 AI/Machine Learning Projects
