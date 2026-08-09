@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Shabeeh Ahmed
+# 👋 Hello, I'm Shabeeh Ahammed
 
 Welcome to my GitHub profile! I'm a passionate **Computer Science student** with a keen interest in building practical applications and exploring emerging technologies.
 
