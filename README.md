@@ -12,12 +12,11 @@ Passionate developer building practical solutions with **Python**. Exploring **A
 | Category | Skills |
 |----------|--------|
 | **Languages** | Python |
-| **Data & AI** | Pandas, Scikit-learn (Learning) |
+| **Data & AI** | Pandas|
 | **Desktop** | PyQt5 |
 | **Tools** | Git, GitHub, PyCharm |
 
 ## 🚀 Focus Areas
-- 🤖 AI/Machine Learning Projects
 - 📊 Data Analysis & Processing with Pandas
 - 🎨 Desktop Applications with PyQt5
 - 🔧 Backend Development (Learning)
