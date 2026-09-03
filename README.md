@@ -14,7 +14,7 @@ Passionate developer building practical solutions with **Python**. Exploring **A
 | **Languages** | Python |
 | **Data & AI** | Pandas|
 | **Desktop** | PyQt5 |
-| **Tools** | Git, GitHub, PyCharm |
+| **Tools** | Git, GitHub, PyCharm, Vs |
 
 ## 🚀 Focus Areas
 - 📊 Data Analysis & Processing with Pandas
